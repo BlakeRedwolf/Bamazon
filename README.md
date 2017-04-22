@@ -44,9 +44,9 @@ Started by requiring all node packages. Then i created a database that would hol
 
 -------------
 
-![Alt text](/relative/path/to/hw1.jpg?raw=true "hw1")
-![Alt text](/relative/path/to/hw2.jpg?raw=true "hw1")
-![Alt text](/relative/path/to/hw3.jpg?raw=true "hw1")
-![Alt text](/relative/path/to/hw4.jpg?raw=true "hw1")
-![Alt text](/relative/path/to/hw5.jpg?raw=true "hw1")
-![Alt text](/relative/path/to/hw6.jpg?raw=true "hw1")
+![HW1](/images/hw1.jpg?raw=true "hw1")
+![HW2](/images/hw2.jpg?raw=true "hw1")
+![HW3](/images/hw3.jpg?raw=true "hw1")
+![HW4](/images/hw4.jpg?raw=true "hw1")
+![HW5](/images/hw5.jpg?raw=true "hw1")
+![HW6](/images/hw6.jpg?raw=true "hw1")
