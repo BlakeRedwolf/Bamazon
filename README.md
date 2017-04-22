@@ -42,11 +42,11 @@ stock_quantity (how much of the product is available in stores)
 
 Started by requiring all node packages. Then i created a database that would hold all of my product/inventory data. Next i established a connection with my databse through gitbash, and psuedo coded a basic outline of what my application would do and was sure to include keywords. I created functions for starting the program, listing inventory, calculating a total cost, deducting the quantity purchased from the inventory and finally updated the inventory to my sql database.
 
--------------
+![HW1](/images/hw1.jpg)
+![HW2](/images/hw2.jpg)
+![HW3](/images/hw3.jpg)
+![HW4](/images/hw4.jpg)
+![HW5](/images/hw5.jpg)
+![HW6](/images/hw6.jpg)
 
-![HW1](/images/hw1.jpg?raw=true "hw1")
-![HW2](/images/hw2.jpg?raw=true "hw1")
-![HW3](/images/hw3.jpg?raw=true "hw1")
-![HW4](/images/hw4.jpg?raw=true "hw1")
-![HW5](/images/hw5.jpg?raw=true "hw1")
-![HW6](/images/hw6.jpg?raw=true "hw1")
+-------------
