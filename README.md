@@ -42,17 +42,13 @@ stock_quantity (how much of the product is available in stores)
 
 Started by requiring all node packages. Then i created a database that would hold all of my product/inventory data. Next i established a connection with my databse through gitbash, and psuedo coded a basic outline of what my application would do and was sure to include keywords. I created functions for starting the program, listing inventory, calculating a total cost, deducting the quantity purchased from the inventory and finally updated the inventory to my sql database.
 
-![HW1](/images/hw1.jpg)
-Format: ![Alt Text](url)
-![HW2](/images/hw2.jpg)
-Format: ![Alt Text](url)
-![HW3](/images/hw3.jpg)
-Format: ![Alt Text](url)
-![HW4](/images/hw4.jpg)
-Format: ![Alt Text](url)
-![HW5](/images/hw5.jpg)
-Format: ![Alt Text](url)
-![HW6](/images/hw6.jpg)
-Format: ![Alt Text](url)
+-------------
+
+![hw1](https://cloud.githubusercontent.com/assets/22486834/25304189/03805406-2717-11e7-8bb2-6b412ae4e532.JPG)
+![hw2](https://cloud.githubusercontent.com/assets/22486834/25304190/03815748-2717-11e7-8b30-a07006821fd5.JPG)
+![hw3](https://cloud.githubusercontent.com/assets/22486834/25304185/037d18c2-2717-11e7-91e0-0d1caa651609.JPG)
+![hw4](https://cloud.githubusercontent.com/assets/22486834/25304186/037d5756-2717-11e7-8200-c8f7e43e826c.JPG)
+![hw5](https://cloud.githubusercontent.com/assets/22486834/25304187/037e82f2-2717-11e7-9937-8e440a058ed0.JPG)
+![hw6](https://cloud.githubusercontent.com/assets/22486834/25304188/037f6b18-2717-11e7-9e06-62ca58bc8eb9.JPG)
 
 -------------
